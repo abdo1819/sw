@@ -7,7 +7,7 @@
 % @Authors:
 % Abdullah Khaled Kamal
 % Abdulrahman Ragab Hashim
-% Hussein Mostapha Saied
+% Hussien Mostafa Said EL-kholy
 % Saleh Mahmoud
 % Abdallah Muhammed Abd-Almagd
 % Mahmoud Hassan Mohamed
