@@ -4,7 +4,7 @@
 
 ```matlab
 % sec_1_G2 code 
-% Authors:
+% @Authors:
 % Abdullah Khaled Kamal
 % Abdulrahman Ragab Hashim
 % Hussein Mostapha Saied
