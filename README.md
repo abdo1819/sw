@@ -5,7 +5,7 @@
 ```matlab
 % sec_1_G2 code 
 % @Authors:
-% 	-Abdullah khaled kamal        __
+% -Abdullah khaled kamal          __
 %	-Abdulrahman Ragab Hashem         |
 %	-Hussin Mostapha Saied            |
 %	-Abduallh Muhammed Abo-elmagd     |---> Computer Engineering Eepartment 3rd year
