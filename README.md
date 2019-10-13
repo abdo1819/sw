@@ -5,12 +5,12 @@
 ```matlab
 % sec_1_G2 code 
 % @Authors:
-% -Abdullah khaled kamal          __
-%	-Abdulrahman Ragab Hashem         |
-%	-Hussin Mostapha Saied            |
-%	-Abduallh Muhammed Abo-elmagd     |---> Computer Engineering Eepartment 3rd year
-%	-Mahmoud Hassan Mohammed          |
-%	-Saleh Mahmoud                  __|
+% Abdullah khaled kamal          __
+%	Abdulrahman Ragab Hashem         |
+%	Hussin Mostapha Saied            |
+%	Abduallh Muhammed Abo-elmagd     |---> Computer Engineering Eepartment 3rd year
+%	Mahmoud Hassan Mohammed          |
+%	Saleh Mahmoud                  __|
 % This is a plot for graph G2 for assignment for section 1  
 % Refearing to code explanation section for line by line explaination and more inforamtion
 time = (-4:1/1000:4); %represents the time period 
