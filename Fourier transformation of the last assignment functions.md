@@ -27,7 +27,7 @@ grid on
 
 ### result:
 
-![](/home/abdullah/Desktop/fofo.svg)
+![](fofo.svg)
 
 ### Line By Line Code Explanation: 
 
@@ -85,14 +85,14 @@ the difference between this code and the previous one is we have just replaced t
 
 ### Result:
 
-![](/home/abdullah/Desktop/pic2.svg)
+![](pic2.svg)
 
 ## Appendix A (The original graphs)
 
 Graph 2:
 
-![](/home/abdullah/Desktop/G2.svg)
+![](G2.svg)
 
 Graph 3
 
-![](/home/abdullah/Desktop/G3_01.png)
+![](G3_01.png)
