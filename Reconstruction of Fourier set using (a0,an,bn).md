@@ -40,7 +40,7 @@ plot(time,re);
 
 ### result
 
- ![reconstruction of Fourier series given the parameters we droved from the last section](/home/abdullah/Desktop/reconstructionFourier.svg)
+ ![](reconstructionFourier.svg)
 
 reconstruction of Fourier series given the parameters we droved from the last section
 
