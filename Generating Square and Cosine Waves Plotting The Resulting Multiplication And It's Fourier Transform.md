@@ -17,7 +17,7 @@ endfunction
 
 fs = 1000; %sampling rate
 t = -4:1/fs:4; %duration
-multi = sq(2,t,1) .* co(1,t,1); %multiplication result
+multi = sq(1,t,2) .* co(1,t,2); %multiplication result
 
 plot(t,multi); %plot multiplication
 %the same ft procedure we had followed during the tutorial section
@@ -37,7 +37,7 @@ multi_ft_abs_shift = fftshift(multi_ft_abs/(N/2));
 
 1- Multiplication of the sine and square waves
 
-![](2multi.svg) 
+![](multi.svg) 
 
 2- the Fourier transform of the result
 
