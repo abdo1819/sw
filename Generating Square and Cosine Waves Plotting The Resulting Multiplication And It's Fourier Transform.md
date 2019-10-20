@@ -37,11 +37,11 @@ multi_ft_abs_shift = fftshift(multi_ft_abs/(N/2));
 
 1- Multiplication of the sine and square waves
 
-![](/home/abdullah/Desktop/2multi.svg) 
+![](2multi.svg) 
 
 2- the Fourier transform of the result
 
-![](/home/abdullah/Desktop/2fourier.svg)
+![](2fourier.svg)
 
 ## Code Explanation:
 
@@ -65,7 +65,7 @@ multi = sq(2,t,1) .* co(1,t,1); %multiplication result
 
 defining the sample rate and duration for the cosine and square wave with the following specs and `multi` (the multiplication result)
 
-![](/home/abdullah/Desktop/specs.png)
+![](specs.png)
 
 **Line 9:** `plot(t,multi);`: plotting the result (see result 1)
 
